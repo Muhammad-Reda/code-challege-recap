@@ -1,4 +1,4 @@
-//vowel counts from https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/javascript?filter=me&sort=best_practice&invalids=false
+//vowel counts from https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
 
 //First code
 function getCount1(str) {
